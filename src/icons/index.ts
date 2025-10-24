@@ -58,7 +58,7 @@ export {
   AlertHexaIcon,
   MoreDotIcon,
   DownloadIcon,
-  FileIcon,
+  // FileIcon,
   GridIcon,
   AudioIcon,
   VideoIcon,
